@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "a1ee",
+      "title": "task2",
+      "description": "this is task2",
+      "deadline": "2024-08-02",
+      "timestamp": "2024-07-25T08:06:36.680Z",
+      "status": "todo"
+    },
+    {
+      "id": "4523",
+      "title": "chaminda",
+      "description": "run ",
+      "deadline": "2024-07-26",
+      "timestamp": "2024-07-25T09:06:39.581Z",
+      "status": "todo"
+    }
+  ]
+}
